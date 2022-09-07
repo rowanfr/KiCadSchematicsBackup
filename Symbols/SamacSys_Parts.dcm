@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ATTINY406-MFR
+D Microchip ATTINY406-MFR, 8bit AVR Microcontroller, 20MHz, 4 kB Flash, 20-Pin QFN
+K
+F https://componentsearchengine.com/Datasheets/1/ATTINY406-MFR.pdf
+$ENDCMP
+#
+$CMP ATTINY416-MFR
+D MICROCHIP - ATTINY416-MFR - MCU, 8BIT, AVR, 20MHZ, VQFN-20
+K
+F https://componentsearchengine.com/Datasheets/1/ATTINY416-MFR.pdf
+$ENDCMP
+#
+$CMP 1211
+D KEYSTONE - 1211 - TERMINAL, MALE DISCONNECT, 0.11", QUICK CONNECT
+K
+F https://componentsearchengine.com/Datasheets/1/1211.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,59 @@
+NIST STEP File Analyzer and Viewer 4.40 (Wed Apr 21 14:12:04 CDT 2021)
+
+Opening STEP AP214 file
+ 742 entities
+ 
+Generating Header worksheet
+Name:  0197084001
+FileDirectory:  C:\Users\beanf\Documents\KiCadWork\SchematicLib\QuickDisconnectTerminals.3dshapes\
+FileDescription:  STEP AP214
+FileImplementationLevel:  1
+ ** FileImplementationLevel is usually '2;1', see Header worksheet  [addHeaderWorksheet]
+FileTimeStamp:  2020-05-06T21:03:41
+FileAuthor:  License CC BY-ND 4.0
+FileOrganization:  CADENAS
+FilePreprocessorVersion:  
+FileOriginatingSystem:  PARTsolutions
+FileAuthorisation:  
+SchemaName:  AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }
+ 
+Generating STEP Entity worksheets
+advanced_brep_shape_representation (1)
+(geometric_representation_context)(global_uncertainty_assigned_context)(global_unit_assigned_context) (1)
+shape_definition_representation (1)
+application_context (1)
+application_protocol_definition (1)
+product (1)
+product_category (1)
+product_category_relationship (1)
+product_context (1)
+product_definition (1)
+product_definition_context (1)
+product_definition_formation_with_specified_source (1)
+product_definition_shape (1)
+product_related_product_category (1)
+advanced_face (23)
+(conversion_based_unit)(length_unit) (1)
+dimensional_exponents (2)
+length_measure_with_unit (1)
+(length_unit)(si_unit) (1)
+(plane_angle_unit)(si_unit) (1)
+(si_unit)(solid_angle_unit) (1)
+uncertainty_measure_with_unit (1)
+ Writing View to: C:\...\KiCadWork\SchematicLib\QuickDisconnectTerminals.3dshapes\0197084001-sfa.html
+ Processing STEP part geometry
+ Processing X3D output
+
+Generating Summary worksheet
+Formatting Worksheets
+Processing time: 4.6 seconds
+ 
+Saving Spreadsheet to:
+ C:\...\SchematicLib\QuickDisconnectTerminals.3dshapes\0197084001-sfa.xlsx
+
+Opening Spreadsheet: 0197084001-sfa.xlsx
+
+Opening View in the default Web Browser: 0197084001-sfa.html (18 KB)
+
+Saving Log file to:
+ C:\...\KiCadWork\SchematicLib\QuickDisconnectTerminals.3dshapes\0197084001-sfa.log

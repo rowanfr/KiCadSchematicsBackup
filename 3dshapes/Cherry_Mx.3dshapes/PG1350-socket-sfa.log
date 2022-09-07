@@ -1,0 +1,70 @@
+NIST STEP File Analyzer and Viewer 4.40 (Wed Apr 21 14:10:43 CDT 2021)
+
+Opening STEP AP214 file
+ 6836 entities
+ 
+Generating Header worksheet
+Name:  PG1350-socket
+FileDirectory:  C:\Users\beanf\Documents\KiCadWork\SchematicLib\Cherry_Mx.3dshapes\
+FileDescription:  STEP AP214
+FileImplementationLevel:  1
+ ** FileImplementationLevel is usually '2;1', see Header worksheet  [addHeaderWorksheet]
+FileTimeStamp:  2018-04-28T04:09:56
+FileAuthor:  
+FileOrganization:  
+FilePreprocessorVersion:  SwSTEP 2.0
+FileOriginatingSystem:  SolidWorks 2018
+FileAuthorisation:  
+SchemaName:  AUTOMOTIVE_DESIGN
+ 
+Generating STEP Entity worksheets
+colour_rgb (4)
+fill_area_style (4)
+fill_area_style_colour (4)
+presentation_layer_assignment (4)
+presentation_style_assignment (4)
+styled_item (4)
+surface_side_style (4)
+surface_style_fill_area (4)
+surface_style_usage (4)
+advanced_brep_shape_representation (2)
+context_dependent_shape_representation (3)
+(geometric_representation_context)(global_uncertainty_assigned_context)(global_unit_assigned_context) (7)
+item_defined_transformation (3)
+mechanical_design_geometric_presentation_representation (4)
+(representation_relationship_with_transformation)(shape_representation_relationship) (3)
+shape_definition_representation (3)
+shape_representation (3)
+shape_representation_relationship (2)
+application_context (6)
+application_protocol_definition (6)
+next_assembly_usage_occurrence (3)
+product (3)
+product_context (3)
+product_definition (3)
+product_definition_context (3)
+product_definition_formation_with_specified_source (3)
+product_definition_shape (6)
+product_related_product_category (3)
+advanced_face (227)
+(length_unit)(si_unit) (7)
+(plane_angle_unit)(si_unit) (7)
+(si_unit)(solid_angle_unit) (7)
+uncertainty_measure_with_unit (7)
+ Writing View to: C:\...\KiCadWork\SchematicLib\Cherry_Mx.3dshapes\PG1350-socket-sfa.html
+ Processing STEP part geometry
+ Processing X3D output
+
+Generating Summary worksheet
+Formatting Worksheets
+Processing time: 34.1 seconds
+ 
+Saving Spreadsheet to:
+ C:\...\KiCadWork\SchematicLib\Cherry_Mx.3dshapes\PG1350-socket-sfa.xlsx
+
+Opening Spreadsheet: PG1350-socket-sfa.xlsx
+
+Opening View in the default Web Browser: PG1350-socket-sfa.html (135 KB)
+
+Saving Log file to:
+ C:\...\KiCadWork\SchematicLib\Cherry_Mx.3dshapes\PG1350-socket-sfa.log

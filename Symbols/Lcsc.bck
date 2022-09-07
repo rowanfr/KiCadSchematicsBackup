@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT3540
+D High Efficiency 1.2MHz 2A Step Up Converter, 2.5-5.5V Vin, 28V Vout, 1.5A current limit, 1.2MHz, SOT23-5, VFB=1.20V
+K Step-Up Boost DC-DC Regulator Adjustable
+F https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT3540_C181744.pdf
+$ENDCMP
+#
+$CMP SK-3278S-L1
+D A 4 Pull Double Throw Switch
+K SW_4PDT
+$ENDCMP
+#
+#End Doc Library

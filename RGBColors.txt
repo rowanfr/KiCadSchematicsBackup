@@ -1,0 +1,3 @@
+Format - RR GG BB
+Plastic Black - 26 26 26
+Shiny Grey Metal - 202 209 238
