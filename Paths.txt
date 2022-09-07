@@ -1,0 +1,3 @@
+DSHAPES = .../3dshapes
+PRETTY = .../Pretty
+SYMBOLS = .../Symbols
